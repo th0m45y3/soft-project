@@ -1,0 +1,39 @@
+Faerun to 291 Norrath = 129
+Faerun to 350 Tristram = 58
+Faerun to 231 AlphaCentauri = 13 219
+Faerun to 337 Arbre r = 24 r 337
+Faerun to 273 Snowdin w = 60 w
+Faerun to 269 Tambi m = 71
+Faerun to 475 Straylight y = 67
+243
+Norrath to Tristram = 142
+Norrath to AlphaCentauri = 15
+Norrath to Arbre = 135
+Norrath to Snowdin = 75
+Norrath to Tambi = 82
+Norrath to Straylight = 54
+Tristram to AlphaCentauri = 118
+Tristram to Arbre = 122
+Tristram to Snowdin = 103
+Tristram to Tambi = 49
+Tristram to Straylight = 97
+AlphaCentauri to Arbre = 116
+AlphaCentauri to Snowdin = 12
+AlphaCentauri to Tambi = 18
+AlphaCentauri to Straylight = 91
+Arbre to Snowdin = 129
+Arbre to Tambi = 53
+Arbre to Straylight = 40
+Snowdin to Tambi = 15
+Snowdin to Straylight = 99
+Tambi to Straylight = 70
+
+   A B C D E F G H
+A x 129 58 13 24 60 71 67
+B 129 x 142 15 135 75 82 54
+C 58 142 x 118 122 103 49 97
+D 13 15 118 x 116 12 18 91
+E 24 135 122 116 x 129 53 40
+F 60 75 103 12 129 x 15 99
+G 71 82 49 18 53 15 x 70
+H 67 54 97 91 40 99 70 x
